@@ -71,6 +71,10 @@ img.aligncenter {
 	margin: 0px auto;
 }
 
+/* wrapper atau terkadang dikenal sebagai container
+   yang biasa dipergunakan untuk membuat container dasar untuk semua objek
+   nantinya semua bagian-bagian elemen baik yang menggunakan class atau id
+   akan berada dalam container wrap ini. */
 #wrapper {
 	margin: 0 auto;
 	padding: 0;
